@@ -1,0 +1,15 @@
+hw_rtc.c:591:20:HW_RTC_GetCalendarValue	24	static
+hw_rtc.c:248:6:HW_RTC_setMcuWakeUpTime	48	static
+hw_rtc.c:278:9:HW_RTC_getMcuWakeUpTime	0	static
+hw_rtc.c:288:10:HW_RTC_GetMinimumTimeout	0	static
+hw_rtc.c:298:10:HW_RTC_ms2Tick	8	static
+hw_rtc.c:309:13:HW_RTC_Tick2ms	8	static
+hw_rtc.c:346:10:HW_RTC_GetTimerElapsedTime	32	static
+hw_rtc.c:361:10:HW_RTC_GetTimerValue	32	static
+hw_rtc.c:376:6:HW_RTC_StopAlarm	8	static
+hw_rtc.c:320:6:HW_RTC_SetAlarm	48	static
+hw_rtc.c:392:6:HW_RTC_IrqHandler	8	static
+hw_rtc.c:420:6:HW_RTC_DelayMs	16	static
+hw_rtc.c:440:10:HW_RTC_SetTimerContext	8	static
+hw_rtc.c:186:6:HW_RTC_Init	48	static
+hw_rtc.c:451:10:HW_RTC_GetTimerContext	0	static

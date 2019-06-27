@@ -1,0 +1,15 @@
+SD.c:46:6:SPI2_Init	12	static
+SD.c:100:9:HW_SPI2_InOut	32	static
+SD.c:153:6:SPI_NSS_ENABLE	8	static
+SD.c:160:6:SPI_NSS_DISABLE	8	static
+SD.c:170:6:Send_SD_Command	24	static
+SD.c:206:6:Get_SD_Response1	8	static
+SD.c:232:6:Get_SD_Response2	8	static
+SD.c:246:6:Get_SD_Response3_7	16	static
+SD.c:269:7:get_fattime	0	static
+SD.c:277:7:SD_Ready_Next_Command	16	static
+SD.c:295:6:SD_ReadSector	24	static
+SD.c:333:6:SD_WriteSector	16	static
+SD.c:579:6:SystemClock_Config_0	88	static
+SD.c:376:6:SC_CARD_Init	64	static
+SD.c:637:6:_Error_Handler	0	static

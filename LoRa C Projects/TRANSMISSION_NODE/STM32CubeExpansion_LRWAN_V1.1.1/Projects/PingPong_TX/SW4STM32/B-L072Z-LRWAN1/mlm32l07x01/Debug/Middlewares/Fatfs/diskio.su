@@ -1,0 +1,5 @@
+diskio.c:22:9:disk_status	8	static
+diskio.c:60:9:disk_initialize	8	static
+diskio.c:98:9:disk_read	8	static
+diskio.c:146:9:disk_write	8	static
+diskio.c:194:9:disk_ioctl	0	static
