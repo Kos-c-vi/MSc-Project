@@ -1,0 +1,1 @@
+-n 4 -localonly -envall -mapall "C:\Program Files\Altair\2017\feko\bin\feko_mkl.csv.impi.exe" "HW_Dip_ant_Sea_surface_Source" "--run-from-gui"
